@@ -1,1 +1,0 @@
-Hello, wordcat PEOPLE.md !
